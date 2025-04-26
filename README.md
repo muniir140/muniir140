@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @muniir140
 - 👀 I’m interested in tech stuff
-- 🌱 I’m currently learning full stack software engineering
+- 🌱 I’m currently learning cybersecurity
 - 💞️ I’m looking to collaborate on anything related to software development
 - 📫 How to reach me:Currently N/A
 - 😄 Pronouns: He/Him
